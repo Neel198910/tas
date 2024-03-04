@@ -1,2 +1,2 @@
-@Library('myshared-library') _
+@Library('shared_lib') _
 myPipeline()
