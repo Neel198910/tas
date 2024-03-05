@@ -1,2 +1,2 @@
-@Library('hello_lib') _
+@Library('mynode_lib') _
 myPipeline()
