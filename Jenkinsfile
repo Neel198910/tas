@@ -1,2 +1,2 @@
-@Library('mynode_lib') _
+@Library('test_api') _
 myPipeline()
